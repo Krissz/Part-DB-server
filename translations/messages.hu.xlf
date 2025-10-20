@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="hu">
-  <file id="messages.hu">
+  <file id="messages.en">
     <unit id="x_wTSQS" name="attachment_type.caption">
       <notes>
         <note category="file-source" priority="1">Part-DB1\templates\AdminPages\AttachmentTypeAdmin.html.twig:4</note>
@@ -4573,7 +4573,7 @@
         <note priority="1">Part-DB1\src\DataTables\PartsDataTable.php:193</note>
         <note priority="1">Part-DB1\src\DataTables\PartsDataTable.php:200</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source>true</source>
         <target>true</target>
       </segment>
@@ -4595,7 +4595,7 @@
         <note priority="1">Part-DB1\src\DataTables\PartsDataTable.php:201</note>
         <note priority="1">Part-DB1\src\Form\Type\SIUnitType.php:139</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source>false</source>
         <target>false</target>
       </segment>
@@ -5004,7 +5004,7 @@
         <note priority="1">Part-DB1\src\Form\AdminPages\ImportType.php:77</note>
         <note priority="1">src\Form\ImportType.php:68</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source>JSON</source>
         <target>JSON</target>
       </segment>
@@ -5015,7 +5015,7 @@
         <note priority="1">Part-DB1\src\Form\AdminPages\ImportType.php:77</note>
         <note priority="1">src\Form\ImportType.php:68</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source>XML</source>
         <target>XML</target>
       </segment>
@@ -5026,7 +5026,7 @@
         <note priority="1">Part-DB1\src\Form\AdminPages\ImportType.php:77</note>
         <note priority="1">src\Form\ImportType.php:68</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source>CSV</source>
         <target>CSV</target>
       </segment>
@@ -5037,7 +5037,7 @@
         <note priority="1">Part-DB1\src\Form\AdminPages\ImportType.php:77</note>
         <note priority="1">src\Form\ImportType.php:68</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source>YAML</source>
         <target>YAML</target>
       </segment>
@@ -14169,6 +14169,42 @@
       <segment state="translated">
         <source>info_providers.bulk_import.max_mappings_reached</source>
         <target>A leképezések maximális száma elérve</target>
+      </segment>
+    </unit>
+    <unit id="LWLi016" name="settings.system">
+      <segment state="initial">
+        <source>settings.system</source>
+        <target>settings.system</target>
+      </segment>
+    </unit>
+    <unit id="8syOoyh" name="settings.behavior">
+      <segment state="initial">
+        <source>settings.behavior</source>
+        <target>settings.behavior</target>
+      </segment>
+    </unit>
+    <unit id="lAiL2Jw" name="settings.ips">
+      <segment state="initial">
+        <source>settings.ips</source>
+        <target>settings.ips</target>
+      </segment>
+    </unit>
+    <unit id="GuUZqpX" name="settings.misc">
+      <segment state="initial">
+        <source>settings.misc</source>
+        <target>settings.misc</target>
+      </segment>
+    </unit>
+    <unit id="mNLyYXa" name="settings.system.localization.language_menu_entries">
+      <segment state="initial">
+        <source>settings.system.localization.language_menu_entries</source>
+        <target>settings.system.localization.language_menu_entries</target>
+      </segment>
+    </unit>
+    <unit id="Ej2znKK" name="settings.system.localization.language_menu_entries.description">
+      <segment state="initial">
+        <source>settings.system.localization.language_menu_entries.description</source>
+        <target>settings.system.localization.language_menu_entries.description</target>
       </segment>
     </unit>
   </file>
